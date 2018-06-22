@@ -5,7 +5,7 @@ date: '2015-07-23'
 categories:
   - Statistics
 tags:
-  - Markdown
+  - Trending 
   - Lorem Ipsum
 thumbnail: https://db.yihui.name/images/saga7.gif
 ---

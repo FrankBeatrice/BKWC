@@ -1,46 +1,51 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Hugo XMag"
-theme = "hugo-xmag"
-googleAnalytics = ""
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-footnotereturnlinkcontents = "↩"
-hasCJKLanguage = true
-enableEmoji = true
-paginate = 6
-
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+paginate        = 6
+#SectionPagesMenu = "main"
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    summary_length = 300
-    github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  title       = "Cannabis With Kym.b"
+  subtitle    = "Your Plug for Cannabis News & Events"
 
-[params.text]
-    back = "&larr; Back to Home"
-    edit = "Edit this page &rarr;"
-    truncated = "&hellip;"
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "Cannabis-with-KymB-158958404674460"
+  instaName = "cannabiswithkymb"
+
+  logo = "hugo-logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 99
+

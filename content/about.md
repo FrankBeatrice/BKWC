@@ -1,9 +1,19 @@
 ---
-title: About Hugo XMag
+title: About Cannabis With Kym.b
 author: Yihui Xie
 ---
 
-**XMag** is the second Hugo theme I have designed. It is based on my first Hugo theme [**XMin**](https://github.com/yihui/hugo-xmin), and similarly, features minimalism but with a magazine style on the homepage inspired by [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost) on Wikipedia. You can find its source code on Github: https://github.com/yihui/hugo-xmag (licensed under MIT).
+**Kym Brynes:** 
+
+**Entreprenur, Socialite & Badass**
+
+Is the Cofounder tribetokes,The VP of cannagather NYC, An Ambassador of Women Grow,
+A Cofounder of The New Jersey Cannabis Commission, Flower Power Coffee Co & CannaBlisByKymB Eye Cream. 
+She is based in New York City & can be spotted in most major 420 friendly cities around the globe.
+Kym is the Ultmate plug for all things Cannabis. She is cited as one of the most notable women in the Legal Cannabis industry.
+
+
+It is based on my first Hugo theme [**XMin**](https://github.com/yihui/hugo-xmin), and similarly, features minimalism but with a magazine style on the homepage inspired by [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost) on Wikipedia. You can find its source code on Github: https://github.com/yihui/hugo-xmag (licensed under MIT).
 
 # Features
 

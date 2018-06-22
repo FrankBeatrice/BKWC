@@ -5,7 +5,7 @@ date: '2015-07-25'
 categories:
   - Tech
 tags:
-  - Markdown
+  - Trending
   - Lorem Ipsum
 thumbnail: https://db.yihui.name/images/git-diff-gui.png
 ---

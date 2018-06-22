@@ -5,7 +5,7 @@ date: '2015-07-24'
 categories:
   - Statistics
 tags:
-  - Markdown
+  - Trending
   - Lorem Ipsum
 thumbnail: https://db.yihui.name/imgur/4rHon0B.png
 ---

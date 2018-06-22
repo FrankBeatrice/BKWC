@@ -5,7 +5,7 @@ author: Thomas Lumley
 categories:
   - Machine Learning
 tags:
-  - Markdown
+  - Trending
   - Lorem Ipsum
 thumbnail: https://db.yihui.name/imgur/CwBsAqs.png
 ---
